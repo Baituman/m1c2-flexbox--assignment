@@ -47,6 +47,7 @@
 .flexFour {
     width: 350px;
     display: flex;
+    flex-wrap: wrap;
     
 }
 
